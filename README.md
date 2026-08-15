@@ -41,6 +41,5 @@ python3 --version
 ---
 ## 📬 Connect with Me
 * **Developer Portfolio:** [Toyeeb-001 GitHub Profile](https://github.com)
-* **Target Institution:** Aspiring Computer Science Undergraduate at Obafemi Awolowo University (OAU) 🦅 (Preparing for UTME/JAMB)
 * **Professional Focus:** Aspiring Backend Software Engineer
 
