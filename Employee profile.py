@@ -1,16 +1,22 @@
 
-first_name = 'Toyeeb'
-last_name = 'Olatoye'
+first_name = 'Olatoye'
+middle_name = 'Akintunde'
+last_name = 'Toyeeb'
 
-full_name = first_name + ' ' + last_name
+full_name = first_name + ' ' + last_name + ' ' + middle_name
 
 address = '8 ojo street'
 address += ', shasha akowonjo Lagos'
+print(address)
 
 # Employee Demographic and Narrative Construction
 employee_age = 28
 employee_info = full_name + ' is ' + str(employee_age) + ' years old'
 print(employee_info)
+
+graduate = 'First Class Degree in Computer Science'
+graduate += ', from Obafemi Awolowo University'
+print(graduate)
 
 # Professional Experience Mapping
 experience_years = 5
@@ -18,8 +24,8 @@ experience_info = 'Experience: ' + str(experience_years) + ' years'
 print(experience_info)
 
 # Position and Compensation Formatting
-position = 'Data Analyst'
-salary = 75000
+position = 'Software Engineer'
+salary = 100000
 employee_card = f'Employee: {full_name} | Age: {employee_age} | Position: {position} | Salary: ${salary}'
 print(employee_card)
 
